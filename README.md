@@ -3,7 +3,7 @@ Decouple user interaction from automated data processing workflows, maintaining 
 # Status
 Under Development
 # To Do list
-. Decide the content of json file for convinient management
-. Workflow management front-end
-. Workflow "import" like module in another workflow
-. Finish workflow to app package function
+.Decide the content of json file for convinient management
+.Workflow management front-end
+.Workflow "import" like module in another workflow
+.Finish workflow to app package function
