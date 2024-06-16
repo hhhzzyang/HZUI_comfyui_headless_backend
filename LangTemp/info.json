@@ -1,0 +1,11 @@
+{
+    "num":1,
+    "config": 
+    [{
+       "nickname":"test",
+       "filename":"fortest.temp",
+       "input":["a","b","c"],
+       "description": "This template generates a personalized greeting message for users.",
+       "image":""
+    }]
+}

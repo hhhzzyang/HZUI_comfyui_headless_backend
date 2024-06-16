@@ -1,0 +1,4 @@
+image filename format
+workflowid
+    input image workflowid_batchid_input_imageid.png
+    output image workflowid_batchid_output_imageid_genbatchid.png 
